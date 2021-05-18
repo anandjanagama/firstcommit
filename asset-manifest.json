@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/firstcommit/static/css/main.db19696f.chunk.css",
+    "main.js": "/firstcommit/static/js/main.0c3de9d5.chunk.js",
+    "main.js.map": "/firstcommit/static/js/main.0c3de9d5.chunk.js.map",
+    "runtime-main.js": "/firstcommit/static/js/runtime-main.032b15e9.js",
+    "runtime-main.js.map": "/firstcommit/static/js/runtime-main.032b15e9.js.map",
+    "static/css/2.74c02967.chunk.css": "/firstcommit/static/css/2.74c02967.chunk.css",
+    "static/js/2.41a2b1d3.chunk.js": "/firstcommit/static/js/2.41a2b1d3.chunk.js",
+    "static/js/2.41a2b1d3.chunk.js.map": "/firstcommit/static/js/2.41a2b1d3.chunk.js.map",
+    "index.html": "/firstcommit/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/firstcommit/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.db19696f.chunk.css.map": "/firstcommit/static/css/main.db19696f.chunk.css.map",
+    "static/js/2.41a2b1d3.chunk.js.LICENSE.txt": "/firstcommit/static/js/2.41a2b1d3.chunk.js.LICENSE.txt",
+    "static/media/androidpic.ac72b5d3.jpg": "/firstcommit/static/media/androidpic.ac72b5d3.jpg",
+    "static/media/appi.a03f5fdf.jpg": "/firstcommit/static/media/appi.a03f5fdf.jpg",
+    "static/media/digitalpic1.ccd5f2ca.jpg": "/firstcommit/static/media/digitalpic1.ccd5f2ca.jpg",
+    "static/media/mainpic.fff7aa09.jpg": "/firstcommit/static/media/mainpic.fff7aa09.jpg",
+    "static/media/marketingpic.c07b1fcb.jpg": "/firstcommit/static/media/marketingpic.c07b1fcb.jpg",
+    "static/media/softwarepic.4477b33d.jpg": "/firstcommit/static/media/softwarepic.4477b33d.jpg",
+    "static/media/webpic.b4ee3750.jpg": "/firstcommit/static/media/webpic.b4ee3750.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032b15e9.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.41a2b1d3.chunk.js",
+    "static/css/main.db19696f.chunk.css",
+    "static/js/main.0c3de9d5.chunk.js"
+  ]
+}
